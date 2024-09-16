@@ -1345,3 +1345,23 @@ hr {
     margin: 0.9em 0;
     
 }
+
+/* لتصميم الفيديو كخلفية */
+.video-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: -1; /* يجعل الفيديو خلف العناصر الأخرى */
+}
+
+#bg-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* يضمن أن الفيديو يغطي الشاشة بالكامل */
+  position: absolute;
+  top: 0;
+  left: 0;
+}
