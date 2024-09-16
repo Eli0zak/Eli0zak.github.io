@@ -3,21 +3,21 @@
         
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="author" content="map[name:Mohamed Ragab]">
-<meta name="description" content="Mohamed Ragab
+<meta name="author" content="map[name:Moataz zaky]">
+<meta name="description" content="Moataz Zaky
 NO SYSTEM IS SAFE.
 
 <meta name="keywords" content="">
 <meta name="robots" content="noodp">
 <meta name="theme-color" content="#252627">
-<link rel="canonical" href="https://mohamed-a-ragab.github.io/about/">
+<link rel="canonical" href="https://Eli0zak.io/about/">
 <link rel="icon" type="image/x-icon" href="/img/favicon.png">
 
 
 
     <title>
         
-            About - M0h4m3d 
+            About - Eli0zak 
         
     </title>
 
@@ -46,7 +46,7 @@ NO SYSTEM IS SAFE.
         <div class="container">
             <header class="header">
     <span class="header__inner">
-       <a href="https://mohamed-a-ragab.github.io/" style="text-decoration: none;">
+       <a href="https://Eli0zak.github.io/" style="text-decoration: none;">
     <div class="logo">
         <span class="logoicon"><img src="../img/100logo.png"></span>
             <span class="logo__mark">&gt;</span>
@@ -63,7 +63,7 @@ NO SYSTEM IS SAFE.
         <span class="header__right">
             
                 <nav class="menu">
-    <ul class="menu__inner"><li><a href="https://mohamed-a-ragab.github.io/about/">About</a></li><li><a href="https://mohamed-a-ragab.github.io/blog/">Blog</a></li>
+    <ul class="menu__inner"><li><a href="https://Eli0zak.github.io/about/">About</a></li><li><a href="https://Eli0zak.github.io/blog/">Blog</a></li>
     </ul>
 </nav>
 
@@ -96,22 +96,27 @@ NO SYSTEM IS SAFE.
         </div>
 
         <article>
-            <h2 class="post-title"><a href="https://mohamed-a-ragab.github.io/about/">About</a></h2>
+            <h2 class="post-title"><a href="https://Eli0zak.github.io/about/">About</a></h2>
 
             
 
             <div class="post-content">
-                <p>Mohamed Ragab is just a person who loves , cybersecurty.</p>
+                <p>Moataz zaky is just a person who loves , cybersecurty.</p>
 <blockquote>
-<p>Working places</p>
+<p>Certificates</p>
 </blockquote>
 <ul>
-<li>Working as instructor at Instant Software Solution Center ( Cairo – Dokki )</li>
-<li>Working as instructor at Optical Soft Center              ( Cairo – Dokki )</li>
-<li> And other remotely companies </li>        
-<li>If you care to contact me go to my Linkedin</li>        
-<li>Thank you for reading about me <3</li>
+    <li>
+        <p><a href="https://www.linkedin.com/learning/certificates/4d17b0b22171596bd32b1aed1112b02c3ba80627da2c7771d937ca11a8bbeefd" target="_blank">Career Essentials in Cybersecurity by Microsoft and LinkedIn</a></p>
+    </li>
+    <li>
+        <p><a href="https://www.linkedin.com/learning/certificates/bb947d140b373939751911885bae8665a4a41ac3da9232da9c16c60181c7986a" target="_blank">Prepare for the Cisco Certified Network Associate (CCNA) Certification Exam</a></p>
+    </li>
+    <li>
+        <p><a href="https://www.linkedin.com/learning/certificates/94c849afe71d5eaa6fd6e0787272cda9537f6af0cc7f6f0194ea9ac88c14473c" target="_blank">Prepare for the CompTIA A+ Core 1 (220-1101) Certification Exam</a></p>
+    </li>
 </ul>
+
 
             </div>
         </article>
@@ -127,9 +132,9 @@ NO SYSTEM IS SAFE.
         <footer class="footer">
             <div class="footer__inner">
                 <div class="footer__content">
-                    <span>&copy; 2022</span>
+                    <span>&copy; 2024</span>
                     
-                        <span><a href="https://mohamed-a-ragab.github.io/">Mohamed Ragab</a></span>
+                        <span><a href="https://Eli0zak.github.io/">Moataz zaky</a></span>
                     
                     
                 </div>
