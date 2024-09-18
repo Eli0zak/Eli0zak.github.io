@@ -1286,7 +1286,7 @@ hr {
 .footer {
     padding: 40px 20px;
     flex-grow: 0;
-    color: #999
+    color: #999;
 }
 
 .footer__inner {
@@ -1295,12 +1295,13 @@ hr {
     justify-content: center;
     margin: 0 auto;
     width: 760px;
-    max-width: 100%
+    max-width: 100%;
+    flex-direction: column; /* اجعل العناصر تظهر عمودياً */
 }
 
 @media (max-width: 900px) {
     .footer__inner {
-        flex-direction: column
+        flex-direction: column;
     }
 }
 
@@ -1309,42 +1310,43 @@ hr {
     flex-direction: row;
     align-items: center;
     font-size: 1rem;
-    color: #999
+    color: #999;
+    margin-bottom: 10px; /* أضف تباعد بين العناصر */
 }
 
 @media (max-width: 900px) {
     .footer__content {
         flex-direction: column;
-        margin-top: 10px
+        margin-bottom: 10px; /* تعديل لتباعد أفضل في العرض الصغير */
     }
 }
 
 .footer__content>*:not(:last-child)::after {
     content: "•";
-    padding: 0 5px
+    padding: 0 5px;
 }
 
 @media (max-width: 900px) {
     .footer__content>*:not(:last-child)::after {
         content: "";
-        padding: 0
+        padding: 0;
     }
 }
 
 .footer__content>*:last-child {
-    padding: 0 5px
+    padding: 0 5px;
 }
 
 @media (max-width: 900px) {
     .footer__content>*:last-child {
-        padding: 0
+        padding: 0;
     }
 }
 
-.THM_Badge{
+.THM_Badge {
     margin: 0.9em 0;
-    
 }
+
 
 /* لتصميم الفيديو كخلفية */
 .video-background {
